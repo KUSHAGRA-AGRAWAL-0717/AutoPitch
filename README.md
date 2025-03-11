@@ -25,7 +25,7 @@ JobMailer AI is an innovative tool designed to streamline the process of generat
 ![Overview](Overview.png)
 
 ## Overview 2
-![Overview](Overview2.png)
+![Overview](overview2.png)
 
 ## Set-up
 1. To get started, first obtain an API_KEY from here: https://console.groq.com/keys. Inside `app/.env`, update the value of `GROQ_API_KEY` with the API_KEY you created.
