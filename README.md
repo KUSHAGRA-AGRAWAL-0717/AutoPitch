@@ -20,8 +20,12 @@ JobMailer AI is an innovative tool designed to streamline the process of generat
 - **Fast & Scalable**: Vector database speeds up retrieval, enhancing personalization and boosting LLM & Langchain knowledge by 50%.
 - **Seamless UI & Export Options**: Interactive Streamlit-based UI for real-time previews, editing, and email downloads.
 
+
 ## Overview
 ![Overview](Overview.png)
+
+## Overview 2
+![Overview](Overview2.png)
 
 ## Set-up
 1. To get started, first obtain an API_KEY from here: https://console.groq.com/keys. Inside `app/.env`, update the value of `GROQ_API_KEY` with the API_KEY you created.
